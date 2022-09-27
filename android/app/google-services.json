@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768793586061",
+    "project_id": "elearner-for-all",
+    "storage_bucket": "elearner-for-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768793586061:android:449b0fec17ba2d48f7b5c4",
+        "android_client_info": {
+          "package_name": "com.elfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768793586061-8coh1uvg6gsr7th8utv1n1nokd87a1ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elfa",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "768793586061-sor2n5k69ojl2fbgav5m84ad40umlmth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS5dYBKzMrJjaAyjE6v0BxQ5jfaz_664Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768793586061-sor2n5k69ojl2fbgav5m84ad40umlmth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
